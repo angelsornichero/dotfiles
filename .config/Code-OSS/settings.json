@@ -1,0 +1,30 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.editor.languageDetection": true,
+    "editor.fontSize": 19,
+    "editor.fontFamily": "'cascadia code'",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "hidden",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.guides.bracketPairs": true,
+    "editor.bracketPairColorization.enabled": true,
+    "oneDarkPro.bold": true,
+    "oneDarkPro.italic": true,
+    "oneDarkPro.vivid": true,
+    "telemetry.telemetryLevel": "off",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.enablePreview": false,
+    "python.linting.banditEnabled": true,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "eslint.format.enable": true,
+    "eslint.packageManager": "pnpm"
+            
+        
+}

@@ -1,0 +1,12 @@
+{
+    "dark-grey": "#1e2127",
+    "grey": "#282C34",
+    "white": "#ffffff",
+    "text": "#282C34",
+    "focus": "#C678DD",
+    "inactive_groups": "#E06C75",
+    "current-layout": "#E06C75",
+    "purple": "#C678DD",
+    "blue": "#61AFEF",
+    "yellow": "#FFC379"
+}

@@ -1,0 +1,16 @@
+# $PATH
+export PATH=$HOME/.local/bin:$PATH
+# Audio
+pulseaudio --start &
+# Network
+nm-applet &
+# Automount Devices
+udiskie -t &
+# systray battery icon
+cbatticon -u 5 &
+# systray volume
+volumeicon &
+# Wallpaper
+random-wallpaper
+# Picom
+picom &

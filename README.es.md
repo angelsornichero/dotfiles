@@ -4,7 +4,7 @@
 
 ***Language***
 - 🇪🇸 Español
-- [🇺🇸 English] (./README.md)
+- [🇺🇸 English](./README.md)
 
 # Indice
 
